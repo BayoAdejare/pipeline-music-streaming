@@ -8,6 +8,8 @@ Welcome to the Music Streaming Data Pipeline project! This advanced system proce
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example: Generating User Recommendations](#example-generating-user-recommendations)
+- [Example: Trend Analysis](#example-trend-analysis)
+- [Example: User Listening History Analysis](#example-user-listening-history-analysis)
 - [CI/CD with GitHub Actions](#cicd-with-github-actions)
 - [License](#license)
 
